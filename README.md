@@ -1,4 +1,4 @@
-## Hi, my name is Sidney Johnson. I'm currently a sophomore at The University of Georgia majoring in Computer Science.
+## Hi, my name is Sidney Johnson. I'm currently studying Computer Science at The University of Georgia.
 
 <!--
 **sidneyj475/sidneyj475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
